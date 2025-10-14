@@ -71,7 +71,7 @@ By completing multiple-choice activities and reflecting on my past interview exp
 I now feel more confident in answering questions clearly, maintaining professionalism, and using the CAR method to showcase my skills and experiences.
 This training has prepared me to approach real interviews with greater confidence and clarity.
 
-**Proffesional Networking**
+**Professional Networking**
 -
 
 **Evidence**
@@ -81,5 +81,16 @@ This training has prepared me to approach real interviews with greater confidenc
 **Reflection (STAR Method):**
 
 1. Situation:
-   *
+   * During the Work Readiness Programme, I completed a module on Professional Networking aimed at teaching how to build and maintain valuable professional connections.
+  
+2. Task:
+   * My task was to understand how networking contributes to career growth and to learn effective strategies for engaging with others in a professional environment.
+
+3. Action:
+   * I participated in interactive lessons that explained the concept of networking events, how to make positive first impressions, and how to sustain professional relationships.
+I also learned about the common mistakes to avoid such as focusing only on personal gain and studied the “golden rule” of networking: to give value before expecting to receive.
+
+4. Result:
+   * Completing the module improved my understanding of networking as an ongoing process of professional relationship building.
+I now feel confident about introducing myself professionally, maintaining meaningful connections, and using networking as a tool for personal and career development.
 
