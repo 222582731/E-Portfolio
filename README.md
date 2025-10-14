@@ -19,4 +19,4 @@ Reflection (STAR Method):
    * I chose some common technical interview questions from the list that was given to us, practiced my responses, and focused on maintaining eye contact and a confident tone.
 
 4. Results:
-   *The experience helped me identify areas for improvement such as speaking pace and structure. I gained confidence in expressing my strengths and experiences professionally.
+   * The experience helped me identify areas for improvement such as speaking pace and structure. I gained confidence in expressing my strengths and experiences professionally.
