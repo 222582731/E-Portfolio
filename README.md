@@ -35,7 +35,7 @@
     * During the Work Readiness Programme, I participated in a Business Communication module/chapter focused on developing effective professional communication skills.
   
 2. Task:
-   * My task was to demonstrate an understanding of different types of communication, when to use formal language, how to apply an appropriate tone in business emails, and the correct etiquette for virtual meetings
+   * My task was to demonstrate an understanding of different types of communication, when to use formal language, how to apply an appropriate tone in business emails, and the correct etiquette for virtual meetings.
 
 3. Action:
    * I engaged in the online module by answering interactive questions about business tone, non-verbal communication, and professionalism in digital settings.
@@ -56,5 +56,8 @@ I now feel more confident composing professional emails, participating in meetin
 **Reflection (STAR Method):**
 
 1. Situation:
-   *
+   * During the Work Readiness Programme, I participated in the Interview Skills training module, which focused on preparing for job interviews and improving response techniques.
+
+2. Task:
+   * My goal was to learn how to effectively structure interview responses, present myself professionally, and answer both behavioral and personal questions with confidence.
 
