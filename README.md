@@ -13,4 +13,4 @@ Reflection:
    * During the Work Readiness training, we were required to participate in a mock interview to practice professional communication.
 
 2. Task:
-  * My task was to prepare responses to common interview questions and demonstrate confidence and clarity.
+   * My task was to prepare responses to common interview questions and demonstrate confidence and clarity.
