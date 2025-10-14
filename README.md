@@ -104,6 +104,17 @@ I now feel confident about introducing myself professionally, maintaining meanin
 
 **Reflection (STAR Method):**
 
-1. **S**ituation:
+1. Situation:
    * As part of the Work Readiness Programme, I completed the Workplace Etiquette module to learn about professionalism and appropriate conduct within a workplace setting.
+  
+2. Task:
+   * My objective was to understand how to behave respectfully and responsibly at work, manage digital communication properly, and handle situations involving sensitive or challenging interactions.
+  
+3. Action:
+   * I engaged in scenario-based activities that covered punctuality, proper communication, and workplace ethics.
+Through the exercises, I learned how to respond professionally to rude or offensive emails, the importance of arriving early for meetings, and how to handle confidential information with discretion.
+
+4. Result:
+   * After completing this module, I gained a clearer understanding of workplace expectations and professional standards.
+I learned that professionalism is not only about performing tasks well but also about attitude, communication, and respect for company policies and colleagues.
 
