@@ -32,4 +32,4 @@
 **Reflection (STAR Method):**
 
 1. Situation:
-    * 
+    * During the Work Readiness Programme, I participated in a Business Communication module/chapter focused on developing effective professional communication skills.
