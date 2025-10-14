@@ -2,5 +2,6 @@
 **Mock Interview:**
 -
 *Evidence:*
-[Click here to view the full presentation on OneDrive](https://1drv.ms/p/s!AqJH3h4U5K7QgZV9vP6n0xA2iY8t?e=abc123)
+![Presentation Screenshot](WorkReadinessPresentation.png)  
+[View full presentation on OneDrive](https://1drv.ms/p/c/3bad3bc429e937b8/EXs4pVlDTYlNgGAUy4sSLa0ByD99B-NmJw8oesJa_7SOhA?e=MIZ6hb)
 
