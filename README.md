@@ -100,4 +100,5 @@ I now feel confident about introducing myself professionally, maintaining meanin
 
 **Evidence:**
 
+![image alt](https://github.com/222582731/E-Portfolio/blob/main/work%20etiquette.png)
 
