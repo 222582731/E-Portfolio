@@ -33,3 +33,6 @@
 
 1. Situation:
     * During the Work Readiness Programme, I participated in a Business Communication module/chapter focused on developing effective professional communication skills.
+  
+2. Task:
+   * My task was to demonstrate an understanding of different types of communication, when to use formal language, how to apply an appropriate tone in business emails, and the correct etiquette for virtual meetings
