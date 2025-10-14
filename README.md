@@ -28,3 +28,8 @@
 **Evidence:**
 
 ![image alt](https://github.com/222582731/E-Portfolio/blob/main/business%20communication.png)
+
+**Reflection (STAR Method):**
+
+1. Situation:
+    * 
