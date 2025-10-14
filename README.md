@@ -76,5 +76,10 @@ This training has prepared me to approach real interviews with greater confidenc
 
 **Evidence**
 
-![image alt](https://github.com/222582731/E-Portfolio/blob/main/interview%20skilss.png)
+![image alt](https://github.com/222582731/E-Portfolio/blob/main/proffesional%20networking.png)
+
+**Reflection (STAR Method):**
+
+1. Situation:
+   *
 
