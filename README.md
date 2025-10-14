@@ -41,3 +41,7 @@
    * I engaged in the online module by answering interactive questions about business tone, non-verbal communication, and professionalism in digital settings.
 I learned the importance of body language, clarity, and formality in business contexts.
 Additionally, I practiced identifying suitable tones for various professional situations and understanding how to maintain professionalism during video conferences.
+
+4. Result:
+   * Completing the module improved my awareness of how small details such as tone, formality, and visual presentation influence professional interactions.
+I now feel more confident composing professional emails, participating in meetings, and maintaining proper etiquette in both face to face and virtual communication settings.
