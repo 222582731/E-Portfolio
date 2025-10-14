@@ -14,3 +14,6 @@ Reflection:
 
 2. Task:
    * My task was to prepare responses to common interview questions and demonstrate confidence and clarity.
+
+3. Action:
+   * I chose some common technical interview questions from the list that was given to us, practiced my responses, and focused on maintaining eye contact and a confident tone.
