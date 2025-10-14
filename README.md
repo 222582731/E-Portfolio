@@ -1,5 +1,5 @@
 # E-Portfolio
-**Mock Interview**
+**1. Mock Interview**
 -
 **Evidence:**
 
@@ -22,7 +22,7 @@
    * The experience helped me identify areas for improvement such as speaking pace and structure. I gained confidence in expressing my strengths and experiences professionally.
 
 
-**Business Communication**
+**2. Business Communication**
 -
 
 **Evidence:**
@@ -46,7 +46,7 @@ Additionally, I practiced identifying suitable tones for various professional si
    * Completing the module improved my awareness of how small details such as tone, formality, and visual presentation influence professional interactions.
 I now feel more confident composing professional emails, participating in meetings, and maintaining proper etiquette in both face to face and virtual communication settings.
 
-**Interview Skills**
+**3. Interview Skills**
 -
 
 **Evidence:**
@@ -71,7 +71,7 @@ By completing multiple-choice activities and reflecting on my past interview exp
 I now feel more confident in answering questions clearly, maintaining professionalism, and using the CAR method to showcase my skills and experiences.
 This training has prepared me to approach real interviews with greater confidence and clarity.
 
-**Professional Networking**
+**4. Professional Networking**
 -
 
 **Evidence**
@@ -95,7 +95,7 @@ I also learned about the common mistakes to avoid such as focusing only on perso
 I now feel confident about introducing myself professionally, maintaining meaningful connections, and using networking as a tool for personal and career development.
 
 
-**Workplace Etiquette**
+**5. Workplace Etiquette**
 -
 
 **Evidence:**
