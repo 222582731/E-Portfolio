@@ -120,7 +120,7 @@ I learned that professionalism is not only about performing tasks well but also 
 
 
 
-**START Method:**
+**STAR Method:**
 
 **S** - Situation
 
