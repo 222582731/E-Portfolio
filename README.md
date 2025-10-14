@@ -102,3 +102,8 @@ I now feel confident about introducing myself professionally, maintaining meanin
 
 ![image alt](https://github.com/222582731/E-Portfolio/blob/main/work%20etiquette.png)
 
+**Reflection (STAR Method):**
+
+1. **S**ituation:
+   * As part of the Work Readiness Programme, I completed the Workplace Etiquette module to learn about professionalism and appropriate conduct within a workplace setting.
+
