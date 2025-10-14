@@ -74,7 +74,7 @@ This training has prepared me to approach real interviews with greater confidenc
 **4. Professional Networking**
 -
 
-**Evidence**
+**Evidence:**
 
 ![image alt](https://github.com/222582731/E-Portfolio/blob/main/proffesional%20networking.png)
 
@@ -120,7 +120,11 @@ I learned that professionalism is not only about performing tasks well but also 
 
 
 **START Method:**
+
 **S** - Situation
+
 **T** - Task
+
 **A** - Action
+
 **R** - Result
