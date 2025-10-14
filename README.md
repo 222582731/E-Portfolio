@@ -60,4 +60,14 @@ I now feel more confident composing professional emails, participating in meetin
 
 2. Task:
    * My goal was to learn how to effectively structure interview responses, present myself professionally, and answer both behavioral and personal questions with confidence.
+  
+3. Action:
+   * I learned about the CAR method (Context, Action, Result) for structuring interview answers and practiced applying it to typical questions such as “Tell me about yourself” and “What are your weaknesses?”
+I also explored the importance of researching a company before an interview to tailor my answers to their values and culture.
+By completing multiple-choice activities and reflecting on my past interview experiences, I gained practical insight into effective communication and preparation techniques.
+
+4. Result:
+   * Completing the module gave me a deeper understanding of what employers look for during interviews.
+I now feel more confident in answering questions clearly, maintaining professionalism, and using the CAR method to showcase my skills and experiences.
+This training has prepared me to approach real interviews with greater confidence and clarity.
 
