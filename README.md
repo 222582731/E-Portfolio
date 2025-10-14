@@ -51,5 +51,10 @@ I now feel more confident composing professional emails, participating in meetin
 
 **Evidence:**
 
-![image alt](https://github.com/222582731/E-Portfolio/blob/main/business%20communication.png)
+![image alt](https://github.com/222582731/E-Portfolio/blob/main/interview%20skilss.png)
+
+**Reflection (STAR Method):**
+
+1. Situation:
+   *
 
