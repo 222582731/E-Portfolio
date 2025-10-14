@@ -118,3 +118,9 @@ Through the exercises, I learned how to respond professionally to rude or offens
    * After completing this module, I gained a clearer understanding of workplace expectations and professional standards.
 I learned that professionalism is not only about performing tasks well but also about attitude, communication, and respect for company policies and colleagues.
 
+
+**START Method:**
+**S** - Situation
+**T** - Task
+**A** - Action
+**R** - Result
