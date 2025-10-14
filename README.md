@@ -71,3 +71,10 @@ By completing multiple-choice activities and reflecting on my past interview exp
 I now feel more confident in answering questions clearly, maintaining professionalism, and using the CAR method to showcase my skills and experiences.
 This training has prepared me to approach real interviews with greater confidence and clarity.
 
+**Proffesional Networking**
+-
+
+**Evidence**
+
+![image alt](https://github.com/222582731/E-Portfolio/blob/main/interview%20skilss.png)
+
