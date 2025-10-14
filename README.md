@@ -38,6 +38,6 @@
    * My task was to demonstrate an understanding of different types of communication, when to use formal language, how to apply an appropriate tone in business emails, and the correct etiquette for virtual meetings
 
 3. Action:
-   *I engaged in the online module by answering interactive questions about business tone, non-verbal communication, and professionalism in digital settings.
+   * I engaged in the online module by answering interactive questions about business tone, non-verbal communication, and professionalism in digital settings.
 I learned the importance of body language, clarity, and formality in business contexts.
 Additionally, I practiced identifying suitable tones for various professional situations and understanding how to maintain professionalism during video conferences.
